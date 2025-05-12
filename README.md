@@ -81,4 +81,4 @@ This app follows the **Flutter Clean Architecture** principles and separates con
 
 ### 📱 App Demo Video
 
-[🎬 Demo Video](assets/screenshots/My Video.mp4)
+![Demo Video](assets/screenshots/video.mp4)
