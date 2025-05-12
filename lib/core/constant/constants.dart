@@ -1,0 +1,1 @@
+const String productApiBaseUrl="https://dummyjson.com/products";
