@@ -79,7 +79,6 @@ This app follows the **Flutter Clean Architecture** principles and separates con
 ![Home Page 4](assets/screenshots/Screenshot_2025-05-12-20-23-08-16_10da17da4d4f772a112bb6899a4c89a9.jpg)
 ![Home Page 5](assets/screenshots/Screenshot_2025-05-12-20-23-20-85_10da17da4d4f772a112bb6899a4c89a9.jpg)
 
-### 📱 App Demo Video
 
-![Demo Video](https://drive.google.com/file/d/1iwK0dcHs9JxqV0GQPZzb2Y9eqoN_ayUg/view?usp=sharing)
-![Apk Url](https://drive.google.com/file/d/1lLtBgk22FWs32AdPz_aEFHb7B4WdOg8a/view?usp=sharing)
+
+
